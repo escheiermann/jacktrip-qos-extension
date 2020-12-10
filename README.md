@@ -1,3 +1,6 @@
+# JackTrip Quality of Service Extension
+This Project extends the JackTrip Application with a Quality Model. The Model is used to give the users insight on the quality of the connection to a peer. 
+
 # JackTrip is a Linux, Mac OSX, or Windows multi-machine audio system used for network music performance over the Internet.
 It supports any number of channels (as many as the computer/network can handle) of bidirectional, high quality, uncompressed audio signal streaming.
 
