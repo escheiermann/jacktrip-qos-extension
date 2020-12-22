@@ -13,7 +13,7 @@ The technical constraints are not the only factors which make up the quality of 
 
 The Quality-Model of this Extension uses the estimated latency to the peer and the estimated tempo of the music and classifies the quality in 4 different categories.  
 
-![user_interface](./documentation/img/GuiVer1.png)
+![quality_categories](./documentation/img/TempoLatencyArith.png)
 
 The diagramm above shows the correlation between the tempo in BPM and latency in milliseconds. For every category the treshold for the latency according to the tempo is shown. The categories are build up as follows: 
 - *acceptable*, colored in green 
